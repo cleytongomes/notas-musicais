@@ -12,6 +12,8 @@ theme:
 markdown_extensions:
   -  attr_list
 
+watch:
+  -  notas_musicais
 
 extra_css:
   -  stylesheets/extra.css
